@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-class FirstTest extends BaseTest{
+class FirstTest {
 
     // 1. How is the easiest way to have setup and teardown methods used in this test class from BaseTest.class?
 
